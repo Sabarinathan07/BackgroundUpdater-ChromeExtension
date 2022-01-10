@@ -1,0 +1,11 @@
+html body {
+	/* background: url(https://www.pikpng.com/pngl/m/122-1229466_free-png-download-diwali-sky-crackers-png-png.png); */
+    background: url(https://4kwallpapers.com/images/wallpapers/black-panther-minimal-art-black-background-3840x2160-2762.png);
+
+    margin: 0;
+    padding: 0;
+  
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
